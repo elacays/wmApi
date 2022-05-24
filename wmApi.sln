@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "langApi", "langApi\langApi.csproj", "{632BA8E0-36C3-4FF5-80E9-DEB9D71B026D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordApi", "WordApi\WordApi.csproj", "{38AEC203-3177-46F0-9DEB-A9836B43DEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApi", "UserApi\UserApi.csproj", "{170864B2-A151-4AE9-8688-C717BE116272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632BA8E0-36C3-4FF5-80E9-DEB9D71B026D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632BA8E0-36C3-4FF5-80E9-DEB9D71B026D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632BA8E0-36C3-4FF5-80E9-DEB9D71B026D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632BA8E0-36C3-4FF5-80E9-DEB9D71B026D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AEC203-3177-46F0-9DEB-A9836B43DEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AEC203-3177-46F0-9DEB-A9836B43DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AEC203-3177-46F0-9DEB-A9836B43DEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AEC203-3177-46F0-9DEB-A9836B43DEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170864B2-A151-4AE9-8688-C717BE116272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170864B2-A151-4AE9-8688-C717BE116272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170864B2-A151-4AE9-8688-C717BE116272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170864B2-A151-4AE9-8688-C717BE116272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD69498-7EAB-4642-892C-526370DDDA80}
+	EndGlobalSection
+EndGlobal
